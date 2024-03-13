@@ -7,8 +7,8 @@ nav_order: 4
 {: .label }
 [Jane Dane]
 
-# [Summary of individual contributions]
 {: .no_toc }
+# Summary of individual contributions
 
 <details open markdown="block">
 {: .text-delta }
@@ -20,13 +20,13 @@ nav_order: 4
 ## [Jane Dane]
 
 Contributions
-: Jane's first contribution
-: Jane's second contribution
+: Lorem ipsum dolor
+: Consetetur sadipscing elitr
 : ...
 
 ## [Joe Doe]
 
 Contributions
-: Joe's first contribution
-: Joe's second contribution
+: Diam nonumy eirmod
+: Tempor invidunt ut labore
 : ...

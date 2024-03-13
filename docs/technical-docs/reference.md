@@ -1,14 +1,14 @@
 ---
 title: Reference
 parent: Technical Docs
-nav_order: 4
+nav_order: 3
 ---
 
 {: .label }
 [Jane Dane]
 
-# [Reference documentation]
 {: .no_toc }
+# Reference documentation
 
 {: .attention }
 > This page collects internal functions, routes with their functions, and APIs (if any).

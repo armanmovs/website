@@ -1,14 +1,14 @@
 ---
 title: Data Model
 parent: Technical Docs
-nav_order: 3
+nav_order: 2
 ---
 
 {: .label }
 [Jane Dane]
 
-# [Data model]
 {: .no_toc }
+# Data model
 
 <details open markdown="block">
 {: .text-delta }
@@ -16,3 +16,5 @@ nav_order: 3
 + ToC
 {: toc }
 </details>
+
+[Visualize and describe the data model(s) of your application. This description should match the actual implementation.]

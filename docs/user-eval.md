@@ -6,8 +6,8 @@ nav_order: 4
 {: .label }
 [Jane Dane]
 
-# [User evaluation]
 {: .no_toc }
+# User evaluation
 
 <details open markdown="block">
 {: .text-delta }

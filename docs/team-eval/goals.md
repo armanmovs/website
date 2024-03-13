@@ -7,8 +7,8 @@ nav_order: 1
 {: .label }
 [Jane Dane]
 
-# [Goals achieved and missed]
 {: .no_toc }
+# Goals achieved and missed
 
 <details open markdown="block">
 {: .text-delta }
