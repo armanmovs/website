@@ -7,8 +7,8 @@ nav_order: 3
 {: .label }
 [Jane Dane]
 
-# [Peer review]
 {: .no_toc }
+# Peer review
 
 <details open markdown="block">
 {: .text-delta }
@@ -29,4 +29,4 @@ nav_order: 3
 
 ### Tip for the future (Wunsch)
 
-[What should be changed or strengthened for the point of view of the reviewer? ]
+[What should be changed or strengthened for the point of view of the reviewer?]
