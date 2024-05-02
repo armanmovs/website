@@ -53,3 +53,7 @@ Press CTRL+C to quit
 **Step 5:** visit [http://127.0.0.1:5000/insert/sample](http://127.0.0.1:5000/insert/sample) to populate the app's database with some sample data.
 
 **Step 6:** visit [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to view the landing page
+
+
+#My very first bla bla 
+need to contact me write @armanmovs 
